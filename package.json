@@ -1,0 +1,30 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabster305/nodePractice.git"
+  },
+  "keywords": [
+    "node",
+    "practice",
+    "really",
+    "hard",
+    "for",
+    "boca"
+  ],
+  "author": "Gabriela Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabster305/nodePractice/issues"
+  },
+  "homepage": "https://github.com/Gabster305/nodePractice#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
